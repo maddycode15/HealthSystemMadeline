@@ -20,6 +20,8 @@ lives = 3;
 
 sheild = 3;
 
+healthStatus = null;
+
 
 
 
@@ -28,7 +30,12 @@ sheild = 3;
 
 // show hud
 
-if (health = 100  //healthStatus = "perfect health");
+if (health == 100)
+{
+    healthStatus = ("perfect health");
+}
+
+if (health )
 
 Console.Write("sheild =" + " " + sheild);
 
