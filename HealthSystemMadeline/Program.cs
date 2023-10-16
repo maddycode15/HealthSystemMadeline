@@ -35,7 +35,7 @@ if (health == 100)
     healthStatus = ("perfect health");
 }
 
-if (health )
+if (health <100 )
 
 Console.Write("sheild =" + " " + sheild);
 
