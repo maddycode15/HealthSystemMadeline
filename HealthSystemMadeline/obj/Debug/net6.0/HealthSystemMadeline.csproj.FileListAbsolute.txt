@@ -12,3 +12,17 @@ C:\madeline github repo\hello world 3\madiline-variables-assignment\HealthSystem
 C:\madeline github repo\hello world 3\madiline-variables-assignment\HealthSystemMadeline\HealthSystemMadeline\obj\Debug\net6.0\HealthSystemMadeline.pdb
 C:\madeline github repo\hello world 3\madiline-variables-assignment\HealthSystemMadeline\HealthSystemMadeline\obj\Debug\net6.0\HealthSystemMadeline.genruntimeconfig.cache
 C:\madeline github repo\hello world 3\madiline-variables-assignment\HealthSystemMadeline\HealthSystemMadeline\obj\Debug\net6.0\ref\HealthSystemMadeline.dll
+C:\madeline github repo\HealthSystemMadeline\HealthSystemMadeline\bin\Debug\net6.0\HealthSystemMadeline.exe
+C:\madeline github repo\HealthSystemMadeline\HealthSystemMadeline\bin\Debug\net6.0\HealthSystemMadeline.deps.json
+C:\madeline github repo\HealthSystemMadeline\HealthSystemMadeline\bin\Debug\net6.0\HealthSystemMadeline.runtimeconfig.json
+C:\madeline github repo\HealthSystemMadeline\HealthSystemMadeline\bin\Debug\net6.0\HealthSystemMadeline.dll
+C:\madeline github repo\HealthSystemMadeline\HealthSystemMadeline\bin\Debug\net6.0\HealthSystemMadeline.pdb
+C:\madeline github repo\HealthSystemMadeline\HealthSystemMadeline\obj\Debug\net6.0\HealthSystemMadeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\madeline github repo\HealthSystemMadeline\HealthSystemMadeline\obj\Debug\net6.0\HealthSystemMadeline.AssemblyInfoInputs.cache
+C:\madeline github repo\HealthSystemMadeline\HealthSystemMadeline\obj\Debug\net6.0\HealthSystemMadeline.AssemblyInfo.cs
+C:\madeline github repo\HealthSystemMadeline\HealthSystemMadeline\obj\Debug\net6.0\HealthSystemMadeline.csproj.CoreCompileInputs.cache
+C:\madeline github repo\HealthSystemMadeline\HealthSystemMadeline\obj\Debug\net6.0\HealthSystemMadeline.dll
+C:\madeline github repo\HealthSystemMadeline\HealthSystemMadeline\obj\Debug\net6.0\refint\HealthSystemMadeline.dll
+C:\madeline github repo\HealthSystemMadeline\HealthSystemMadeline\obj\Debug\net6.0\HealthSystemMadeline.pdb
+C:\madeline github repo\HealthSystemMadeline\HealthSystemMadeline\obj\Debug\net6.0\HealthSystemMadeline.genruntimeconfig.cache
+C:\madeline github repo\HealthSystemMadeline\HealthSystemMadeline\obj\Debug\net6.0\ref\HealthSystemMadeline.dll

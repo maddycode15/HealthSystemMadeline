@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\madeline github repo\\hello world 3\\madiline-variables-assignment\\HealthSystemMadeline\\HealthSystemMadeline\\HealthSystemMadeline.csproj": {}
+    "C:\\madeline github repo\\HealthSystemMadeline\\HealthSystemMadeline\\HealthSystemMadeline.csproj": {}
   },
   "projects": {
-    "C:\\madeline github repo\\hello world 3\\madiline-variables-assignment\\HealthSystemMadeline\\HealthSystemMadeline\\HealthSystemMadeline.csproj": {
+    "C:\\madeline github repo\\HealthSystemMadeline\\HealthSystemMadeline\\HealthSystemMadeline.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\madeline github repo\\hello world 3\\madiline-variables-assignment\\HealthSystemMadeline\\HealthSystemMadeline\\HealthSystemMadeline.csproj",
+        "projectUniqueName": "C:\\madeline github repo\\HealthSystemMadeline\\HealthSystemMadeline\\HealthSystemMadeline.csproj",
         "projectName": "HealthSystemMadeline",
-        "projectPath": "C:\\madeline github repo\\hello world 3\\madiline-variables-assignment\\HealthSystemMadeline\\HealthSystemMadeline\\HealthSystemMadeline.csproj",
+        "projectPath": "C:\\madeline github repo\\HealthSystemMadeline\\HealthSystemMadeline\\HealthSystemMadeline.csproj",
         "packagesPath": "C:\\Users\\w0491550\\.nuget\\packages\\",
-        "outputPath": "C:\\madeline github repo\\hello world 3\\madiline-variables-assignment\\HealthSystemMadeline\\HealthSystemMadeline\\obj\\",
+        "outputPath": "C:\\madeline github repo\\HealthSystemMadeline\\HealthSystemMadeline\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\w0491550\\AppData\\Roaming\\NuGet\\NuGet.Config",
